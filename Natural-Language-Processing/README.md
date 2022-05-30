@@ -1,6 +1,6 @@
 # Natural Language processing
-Challenges and Recent models and challanges in the field of NLP
-## Methods and challenges we've introduced
+Recent models and challenges in the field of NLP
+## Topics we've discussed
 -Word embedding
 
 -Recurrent neural networks
